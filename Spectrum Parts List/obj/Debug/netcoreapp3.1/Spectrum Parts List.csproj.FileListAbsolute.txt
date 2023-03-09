@@ -1,0 +1,44 @@
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.exe
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.deps.json
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.runtimeconfig.json
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.runtimeconfig.dev.json
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.pdb
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.csproj.AssemblyReference.cache
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.AssemblyInfoInputs.cache
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.AssemblyInfo.cs
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.csproj.CoreCompileInputs.cache
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.pdb
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.genruntimeconfig.cache
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Irony.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\XLParser.dll
+C:\Users\jon.wilson\OneDrive - iescorporate.onmicrosoft.com\Desktop\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.csproj.CopyComplete
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.exe
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.deps.json
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.runtimeconfig.json
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.runtimeconfig.dev.json
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Spectrum Parts List.pdb
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\Irony.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\bin\Debug\netcoreapp3.1\XLParser.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.csproj.AssemblyReference.cache
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.AssemblyInfoInputs.cache
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.AssemblyInfo.cs
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.csproj.CoreCompileInputs.cache
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.csproj.CopyComplete
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.dll
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.pdb
+C:\Users\jon.wilson\source\repos\Spectrum Parts List\Spectrum Parts List\obj\Debug\netcoreapp3.1\Spectrum Parts List.genruntimeconfig.cache
